@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+    color: yellow;
+}
+h2{
+    font-style: italic;
+    color: white;
+}
+pre{
+    color: blue;
+    font-style: oblique;
+}
